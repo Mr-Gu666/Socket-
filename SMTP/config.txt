@@ -1,0 +1,4 @@
+server_user = "15102283166@163.com"
+    server_pwd = "TNACITXSFPVCDDAP"
+    sender = "15102283166@163.com"
+    receiver = "709652082@qq.com"
